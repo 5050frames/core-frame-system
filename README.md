@@ -1,4 +1,4 @@
-Core Development Kit
+# Core Development Kit
 
 We’ve created the Core Development Kit to make it easier for you to get started
 making frame walls. It includes all the objects we used to design our frame
@@ -6,7 +6,15 @@ walls; axles, wheels, frame spacers and most importantly the Core. We’ve also
 included in the CDK a sample frame wall you can use to jumpstart your design.
 This wall fits 65mm wheels, which is the maximum standard wheel size.
 
-Terms of Use
+## Getting Started
+
+If you're new to GitHub, please take a minute to create an account so you can participate in discussions about the CDK. While we won't be using everything GitHub has to offer, we definitely will be taking your issues and suggestions for improvement.
+
+Here's where to access the core-frame-system GitHub: https://github.com/5050frames/core-frame-system
+
+And here's a direct download of the most current CDK: https://github.com/5050frames/core-frame-system/archive/refs/heads/main.zip
+
+## Terms of Use
 
 The Core System is open source and free for you to use to pursue your frame
 design dreams. We’re licensing the system under Creative Commons so you can use
